@@ -260,7 +260,9 @@ LAVADO |PULIDO |ABRILLANTADO
     margin: 2px 0px 0px;
 
 }
-
+.hero__ctaimg{
+    height:100px;
+}
 /* MENU SLIDER -GR-*/
 
 .CONTAINERSL{
