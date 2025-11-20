@@ -453,7 +453,7 @@ LAVADO |PULIDO |ABRILLANTADO
 }    
     
 .footer{
-    background-color: rgb (0, 0, 0,);
+    background-color: rgb (0, 0, 0);
 }
 
 .footer__content{
@@ -501,7 +501,7 @@ LAVADO |PULIDO |ABRILLANTADO
 .footer__copy{
     margin-top: 1rem;
     justify-self: center;
-    background-color: rgb(0, 32, 79);
+    background-color: rgb(0, 0, 0);
     color: white;
     font-weight: 500;
     padding: 4px;
